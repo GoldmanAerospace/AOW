@@ -130,6 +130,7 @@ this.options = {
   lives: 5,
   radar_zoom: 2,
   soundtrack: "warp_drive.mp3",
+  map_name: "Duel for Acamar",
   
   //minor params
   max_players: 200,
